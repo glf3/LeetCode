@@ -1,4 +1,3 @@
 MyLeetCode
 ==========
-
-my solutions to leetcode
+my accepted solutions to leetcode
