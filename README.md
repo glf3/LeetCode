@@ -1,4 +1,4 @@
 leetcode
 ==========
 my accepted solutions to leetcode...
-有些大数据处理的题目是用Python写的，偷了一下懒。。。
+._鏈変簺澶ф暟鎹鐞嗙殑棰樼洰鏄敤Python鍐欑殑锛屽伔浜嗕竴涓嬫噿銆傘�傘�俖.
