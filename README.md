@@ -1,3 +1,3 @@
-LeetCode
+leetcode
 ==========
 my accepted solutions to leetcode...
